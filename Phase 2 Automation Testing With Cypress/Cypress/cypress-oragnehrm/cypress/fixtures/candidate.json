@@ -1,0 +1,38 @@
+[
+  {
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Vacancy": "Software Engineer",
+    "Email": "johndoe@example.com",
+    "Contact": "+123456789",
+    "Resume": "resume.doc",
+    "Expected": "Success"
+  },
+  {
+    "FirstName": "Mike",
+    "LastName": "Abate",
+    "Vacancy": "test",
+    "Email": "mike",
+    "Contact": "+123456789",
+    "Resume": "resume.doc",
+    "Expected": "IncorrectFormat"
+  },
+  {
+    "FirstName": "",
+    "LastName": "",
+    "Vacancy": "Software Engineer",
+    "Email": "johndoe@example.com",
+    "Contact": "+123456789",
+    "Resume": "resume.doc",
+    "Expected": "Failed"
+  },
+  {
+    "FirstName": "Betty",
+    "LastName": "Dawit",
+    "Vacancy": "",
+    "Email": "",
+    "Contact": "+123456789",
+    "Resume": "resume.doc",
+    "Expected": "Failed"
+  }
+]
