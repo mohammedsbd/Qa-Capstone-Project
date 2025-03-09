@@ -1,0 +1,42 @@
+[
+  {
+    "username": "user1",
+    "password": "pass1",
+    "valid": true
+  },
+  {
+    "username": "user2",
+    "password": "pass2",
+    "valid": true
+  },
+  {
+    "username": "user3",
+    "password": "pass3",
+    "valid": true
+  },
+  {
+    "username": "userX",
+    "password": "passX",
+    "valid": false
+  },
+  {
+    "username": "userY",
+    "password": "passY",
+    "valid": false
+  },
+  {
+    "username": "admin",
+    "password": "admin123",
+    "valid": true
+  },
+  {
+    "username": "testuser",
+    "password": "testpass",
+    "valid": true
+  },
+  {
+    "username": "wronguser",
+    "password": "wrongpass",
+    "valid": false
+  }
+]
